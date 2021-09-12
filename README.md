@@ -82,6 +82,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/kulyash-dahiya-a93650180/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=connect&message=@Kulyash&color=success&logo=linkedin&style=flat-square&logoColor=white&colorA=blue" /> </a>
 <a href="https://www.github.com/KulyashDahiya/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@KulyashDahiya&color=grey&logo=github&style=flat-square&logoColor=white&colorA=black" /> </a>
 <a href="mailto:kulyashdahiya77@gmail.com" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=kulyashdahiya77@gmail.com&label=send&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:jainsparsh0801@gmail.com" /> </a>
-<a href="https://leetcode.com/kulyash77/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=visit&message=@Sh3ld0r&color=yellow&logo=leetcode&style=flat-square&logoColor=orange&colorA=black" /> </a>
+<a href="https://leetcode.com/kulyash77/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=visit&message=@kulyash77&color=yellow&logo=leetcode&style=flat-square&logoColor=orange&colorA=black" /> </a>
 <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=KulyashDahiya" /> 
 
