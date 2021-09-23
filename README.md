@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <!--  <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=KulyashDahiya&show_icons=true&theme=radical&count_private=true&hide=issues" />
 </p> -->
-[![Surya's github activity graph](https://activity-graph.herokuapp.com/graph?username=KulyashDahiya&theme=rogue)](https://github.com/KulyashDahiya/github-readme-activity-graph)
+[![Kulyash's github activity graph](https://activity-graph.herokuapp.com/graph?username=KulyashDahiya&theme=rogue)](https://github.com/KulyashDahiya/github-readme-activity-graph)
 
 
 ### 🤝 Connect with Me :
