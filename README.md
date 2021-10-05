@@ -11,7 +11,7 @@
 
  #### I'm a self taught full-stack web developer 💻 that is always looking to grow and improve. I'm a passionate learner that is always eager to gain more experience. Currently a B.Tech student in Computer Science at NIET, Gr.Noida 🏫.
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in web development (MERN stack), competitive coding, data structures and algorithms.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in Android development, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in frontend and backend web development.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time.
