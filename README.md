@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <h3>💻 Things I code with</h3>
 <p>
   <img height="70" width="70" alt="Python" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" />
-  <img height="70" width="70" alt="Apple" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apple/apple-original.svg" /> 
-<!--   <img height="25" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<!--  <img height="70" width="70" alt="Apple" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apple/apple-original.svg" /> 
+  <img height="25" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img height="25" alt="Jest" src="https://img.shields.io/badge/-Jest-bc1224?style=flat-square&logo=jest&logoColor=white" />
   <img height="25" alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> -->
   <img height="70" width="70" alt="Scala" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/scala/scala-original-wordmark.svg" />
