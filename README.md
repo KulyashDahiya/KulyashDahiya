@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 <h3>💻 Things I code with</h3>
 <p>
-  <img height="25" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" />
+  <img height="40" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" />
   <img height="25" alt="Apple" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apple/apple-original.svg" /> 
 <!--   <img height="25" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img height="25" alt="Jest" src="https://img.shields.io/badge/-Jest-bc1224?style=flat-square&logo=jest&logoColor=white" />
