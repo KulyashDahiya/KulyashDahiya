@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KulyashDahiya&show_icons=true&theme=default&count_private=true&hide=issues" />
- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KulyashDahiya&theme=radical&layout=compact&hide=html,java,ejs" />
+ <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KulyashDahiya&theme=default&layout=compact&hide=html,java,ejs" />
 </p>
 
 
