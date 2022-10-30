@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hello World <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>, I'm Kulyash!</h1> -->
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E6E6FA&size=30&center=true&vCenter=true&lines=Sup%3F+I+am+Kulyash!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=298ABE&size=30&center=true&vCenter=true&lines=Sup%3F+I+am+Kulyash!)](https://git.io/typing-svg)
  
 </div>
 <!-- ## Hi there 👋 -->
