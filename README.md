@@ -32,24 +32,24 @@ Here are some ideas to get you started:
 -->
 <h3>💻 Things I code with</h3>
 <p>
-  <img height="25" alt="Python" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" />
-  <img height="25" alt="Apple" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apple/apple-original.svg" /> 
+  <img height="70" width="70" alt="Python" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" />
+  <img height="70" width="70" alt="Apple" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apple/apple-original.svg" /> 
 <!--   <img height="25" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img height="25" alt="Jest" src="https://img.shields.io/badge/-Jest-bc1224?style=flat-square&logo=jest&logoColor=white" />
   <img height="25" alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> -->
-  <img height="25" alt="Scala" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/scala/scala-original-wordmark.svg" />
+  <img height="70" width="70" alt="Scala" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/scala/scala-original-wordmark.svg" />
 <!--   <img height="25" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   -->
  
-  <img height="25" alt="ApacheKafka" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg" />
-  <img height="25" alt="Azure" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original-wordmark.svg" />
-  <img height="25" alt="AWS" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img height="70" width="70" alt="ApacheKafka" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg" />
+  <img height="70" width="70" alt="Azure" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original-wordmark.svg" />
+  <img height="70" width="70" alt="AWS" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <!--   <img height="25" alt="materailUI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white" />
    -->
   
-  <img height="25" alt="Linux" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
+  <img height="70" width="70" alt="Linux" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
 <!--   <img height="25" alt="GraphQL" src="https://img.shields.io/badge/-Graphql-e535ab?style=flat-square&logo=graphql&logoColor=white" /> -->
-  <img height="25" alt="MySQL" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
+  <img height="70" width="70" alt="MySQL" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
 <!--   <img height="25" alt="DenoJS" src="https://img.shields.io/badge/-DenoJS-434343?style=flat-square&logo=deno&logoColor=white" />
   <img height="25" alt="Flask" src="https://img.shields.io/badge/-Flask-43953d?style=flat-square&logo=flask&logoColor=white" /> -->
 <!--  
