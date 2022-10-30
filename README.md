@@ -35,15 +35,15 @@ Here are some ideas to get you started:
   <img height="40" width="40px" alt="Python" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" />
 <!--  <img height="40" width="40px" alt="Apple" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apple/apple-original.svg" />
   <img height="25" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img height="40" width="40px" alt="Jest" src="https://img.shields.io/badge/-Jest-bc1224?style=flat-square&logo=jest&logoColor=white" />
-  <img height="40" width="40px" alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> -->
+  <img height="25" alt="Jest" src="https://img.shields.io/badge/-Jest-bc1224?style=flat-square&logo=jest&logoColor=white" />
+  <img height="25" alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> -->
   <img height="40" width="40px" alt="Scala" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/scala/scala-original-wordmark.svg" />
 <!--   <img height="25" width="40px" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   -->
  
-  <img height="40" alt="ApacheKafka" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg" />
-  <img height="40" alt="Azure" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original-wordmark.svg" />
-  <img height="40" alt="AWS" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img height="40" width="40px" alt="ApacheKafka" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original-wordmark.svg" />
+  <img height="40" width="40px" alt="Azure" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original-wordmark.svg" />
+  <img height="40" width="40px" alt="AWS" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <!--   <img height="25" alt="materailUI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white" />
    -->
   
