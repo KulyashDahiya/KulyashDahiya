@@ -9,7 +9,7 @@
 <!-- ## Hi there 👋 -->
 
 
- #### I'm a self taught Big Data Full Stack Developer 💻 who is always looking to grow and improve. I'm a passionate learner that is always eager to gain more experience. Currently a B.Tech student in Computer Science at NIET, Gr.Noida 🏫.
+ #### I'm a self taught Big Data Engineer 💻 who is always looking to grow and improve. I'm a passionate learner that is always eager to gain more experience. Currently a B.Tech student in Computer Science at NIET, Gr.Noida 🏫.
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Data Engineering, Data Structures and Algorithms.
 - 🤝 Open for collaborations in ETL projects.
