@@ -63,20 +63,6 @@ Here are some ideas to get you started:
   
 </p>
 
-### 📑 My Github Stats :
-
-<p align="center">
- <img height="160" src="https://github-readme-stats.vercel.app/api?username=KulyashDahiya&show_icons=true&theme=default&count_private=true&hide=issues" />
- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KulyashDahiya&theme=default&layout=compact&hide=html,java,ejs" />
-</p>
-
-
-<!--  <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KulyashDahiya&show_icons=true&theme=radical&count_private=true&hide=issues" />
-</p> -->
-
-
-
 ### 🤝 Connect with Me :
 
 <a href="https://www.linkedin.com/in/kulyashdahiya/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=connect&message=@Kulyash&color=success&logo=linkedin&style=flat-square&logoColor=white&colorA=blue" /> </a>
