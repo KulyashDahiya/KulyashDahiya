@@ -11,7 +11,7 @@
 
  #### I'm a self taught Big Data Engineer 💻 who is always looking to grow and improve. I'm a passionate learner that is always eager to gain more experience. Currently a B.Tech student in Computer Science at NIET, Gr.Noida 🏫.
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in Data Engineering, Data Structures and Algorithms.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in Data Engineering.
 - 🤝 Open for collaborations in ETL projects.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time.
